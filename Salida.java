@@ -19,6 +19,7 @@ public class Salida {
         }
         catch (IOException e)
         {
+            
             System.out.println(e);
         }
     }
